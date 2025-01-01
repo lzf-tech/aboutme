@@ -1,2 +1,2 @@
 # aboutme
-Work at Jinan University, teaching Computer Science and Cybersecurity
+Work at University of Jinan, teaching Computer Science and Cybersecurity
